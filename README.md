@@ -30,5 +30,3 @@ To get started with this project, you'll need the following dependencies:
 3. Train machine learning models to predict sleep quality and stress levels.
 
 4. Use the insights from the model to optimize daily routines for better well-being.
-
-trying smth
